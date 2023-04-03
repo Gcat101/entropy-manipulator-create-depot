@@ -6,7 +6,7 @@ An in-world recipe type that allows you to transform items when the Entropy Mani
 
 ```js
 onEvent('block.right_click', event => {
-    entropy_by_blockentity(event, 'create:depot', 0, 'minecraft:water_bucket', 'minecraft:ice', 1, true)
+    global.entropy_by_blockentity(event, 'create:depot', 0, 'minecraft:water_bucket', 'minecraft:ice', 1, true)
 })
 ```
 
