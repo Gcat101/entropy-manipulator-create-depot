@@ -1,0 +1,9 @@
+{
+    "author": "squoshi",
+    "description": "Adds a new in-world recipe type that allows you to transform items when the Entropy Manipulator from AE2 is used on a Create Depot. Docs: https://github.com/Gcat101/entropy-manipulator-create-depot/blob/main/README.md",
+    
+    "versions": [8],
+    "modloaders": ["forge", "fabric"],
+    "dependencies": [],
+    "incompatibilities": []
+}
