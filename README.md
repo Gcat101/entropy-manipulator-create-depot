@@ -12,4 +12,4 @@ onEvent('block.right_click', event => {
 
 ## Showcase
 
-https://cdn.discordapp.com/attachments/1070297722848038912/1070297723380711434/javaw_yIU1lCltdU.mp4
+https://user-images.githubusercontent.com/79367505/229584913-0f0aeff1-179d-49f4-b5d3-fa0c6ca1caaa.mp4
